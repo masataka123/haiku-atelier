@@ -1,0 +1,29 @@
+{
+  "standard": {
+    "writers": 10,
+    "poems_per_writer": 30,
+    "first_wave_writers": 6,
+    "shortlist_limit": 60,
+    "revision_rounds": 5,
+    "round_limits": [60, 50, 40, 30, 20],
+    "round_reader_feedback": true,
+    "final_size": 10
+  },
+  "rehearsal": {
+    "writers": 5,
+    "poems_per_writer": 6,
+    "first_wave_writers": 3,
+    "shortlist_limit": 12,
+    "revision_rounds": 5,
+    "round_limits": [12, 10, 8, 6, 5],
+    "round_reader_feedback": true,
+    "final_size": 3
+  },
+  "pilot": {
+    "writers": 5,
+    "poems_per_writer": 2,
+    "shortlist_limit": 4,
+    "revision_rounds": 1,
+    "final_size": 2
+  }
+}

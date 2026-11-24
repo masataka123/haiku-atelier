@@ -1,0 +1,8 @@
+/runs/
+/studies/
+/exports/
+/local/
+/reference/0[2-9]_*.md
+__pycache__/
+*.py[cod]
+.DS_Store
